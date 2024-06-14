@@ -1,7 +1,5 @@
-<div class="warning" style='padding:0.5em; margin: .5em .1em 2em .1em; background-color:#FFD122; color:#923201'>
-<span>
-<i><b>WARNING</b> : Currently using outdated libraries. Update in progress...</i>
-</div>
+> _**WARNING** : Currently using outdated libraries. Update in progress..._
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/larsonjj/generator-yeogurt/master/docs/images/logo.png" />
